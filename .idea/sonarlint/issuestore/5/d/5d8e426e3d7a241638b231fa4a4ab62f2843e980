@@ -1,0 +1,21 @@
+
+V
+java:S1854"9Remove this useless assignment to local variable "good4".(Õ«„8†˜ÆÈƒ1
+G
+java:S1481"*Remove this unused "good4" local variable.(Õ«„8‡˜ÆÈƒ1
+B
+java:S1602",Remove useless curly braces around statement(ØÜ¿á
+B
+java:S1602",Remove useless curly braces around statement(µ†Óâ
+t
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+B
+java:S1602<",Remove useless curly braces around statement(ğè¤¾
+^
+java:S1612<"AReplace this lambda with method reference 'retailShop::checkout'.(ğè¤¾8˜ÆÈƒ1
+G
+java:S1602C",Remove useless curly braces around statement(ãØ¯ûÿÿÿÿ
+c
+java:S1612C"AReplace this lambda with method reference 'retailShop::checkout'.(ãØ¯ûÿÿÿÿ8˜ÆÈƒ1
+{
+java:S2142O"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Òá”½ƒ1
